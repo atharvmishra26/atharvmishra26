@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atharv Mishra</h1>
-<h3 align="center">A passionate machine learning enthusiast from India</h3>
+<h3 align="center">A passionate artificial intelligence and machine learning enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **AIML**
 
-- 👯 I’m looking to collaborate on **machine leaning**
+- 👯 I’m looking to collaborate on **AIML**
 
 - 💬 Ask me about **C++ and Python**
 
