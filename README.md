@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharv Mishra</h1>
-<h3 align="center">A passionate artificial intelligence and machine learning enthusiast from India</h3>
+<h3 align="center">A passionate Artificial Intelligence and Machine Learning enthusiast from India</h3>
 
 - 🌱 I’m currently learning **AIML**
 
