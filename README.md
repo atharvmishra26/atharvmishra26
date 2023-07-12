@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharv Mishra</h1>
-<h3 align="center">A passionate Artificial Intelligence and Machine Learning enthusiast from India</h3>
+<h3 align="center">🤖 Machine Learning Developer | Data Enthusiast | AI Explorer 🚀</h3>
 
-- 🌱 I’m currently learning **AIML**
-
-- 👯 I’m looking to collaborate on **AIML**
-
-- 💬 Ask me about **C++ and Python**
+Passionate about algorithms and data-driven insights. Building intelligent systems to solve complex problems. Constantly learning and exploring the world of AI. Let's collaborate and create together! 👨‍💻
 
 - 📫 How to reach me **atharvlko15@gmail.com**
 
