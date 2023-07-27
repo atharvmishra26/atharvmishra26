@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharv Mishra</h1>
 <h3 align="center">🤖 Machine Learning Developer | Data Enthusiast | AI Explorer 🚀</h3>
 💫 About Me:
-<br>1️⃣ Passionate ML developer, unraveling data mysteries with enthusiasm! 🌈<br>2️⃣ Innovative problem-solver, constantly seeking cutting-edge solutions. 💡<br>3️⃣ Thriving on complex challenges, turning them into elegant ML solutions. 🧩<br>4️⃣ Collaborative team player, building remarkable projects together. 🤝<br>5️⃣ Transforming raw data into meaningful insights and beautiful visualizations. 📈<br>6️⃣ Charting my path to mastery, contributing to the ever-evolving world of ML. 🌟<br>How to reach me - Linkedin @AtharvMishra, Twitter - @Atharv Mishra, Portfolio - @atharvmishra.in
+<br>1️⃣ Passionate ML developer, unraveling data mysteries with enthusiasm! 🌈 <br>2️⃣ Innovative problem-solver, constantly seeking cutting-edge solutions. 💡<br>3️⃣ Thriving on complex challenges, turning them into elegant ML solutions. 🧩<br>4️⃣ Collaborative team player, building remarkable projects together. 🤝<br>5️⃣ Transforming raw data into meaningful insights and beautiful visualizations. 📈<br>6️⃣ Charting my path to mastery, contributing to the ever-evolving world of ML. 🌟<br>How to reach me - Linkedin @AtharvMishra, Twitter - @Atharv Mishra, Portfolio - @atharvmishra.in
 
 
 ## 🌐 Socials:
